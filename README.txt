@@ -1,6 +1,8 @@
 
 Name	Description
+
 CVE-2018-5918	Possible buffer overflow in DRM Trusted application due to lack of check function return values in Snapdragon Automobile, Snapdragon Mobile and Snapdragon Wear in versions MDM9206, MDM9607, MDM9650, MSM8909W, MSM8996AU, SD 210/SD 212/SD 205, SD 410/12, SD 425, SD 430, SD 450, SD 615/16/SD 415, SD 625, SD 650/52, SD 800, SD 810, SD 820, SD 820A, SD 835, SD 845, SD 850, SDA660, SDA845, SDX24, SXR1130.
+
 CVE-2018-5916	Buffer overread while decoding PDP modify request or network initiated secondary PDP activation in Snapdragon Automobile, Snapdragon Mobile and Snapdragon Wear in versions MDM9206, MDM9607, MDM9615, MDM9625, MDM9635M, MDM9640, MDM9645, MDM9650, MDM9655, MSM8909W, MSM8996AU, SD 210/SD 212/SD 205, SD 410/12, SD 425, SD 430, SD 450, SD 615/16/SD 415, SD 625, SD 650/52, SD 810, SD 820, SD 820A, SD 835, SD 845, SD 850, SDA660, SDA845, SDX20, SXR1130.
 CVE-2018-5915	Exception in Modem IP stack while processing IPv6 packet in snapdragon automobile, snapdragon mobile and snapdragon wear in versions MDM9607, MDM9640, MDM9650, MSM8909W, MSM8996AU, SD 210/SD 212/SD 205, SD 425, SD 430, SD 712 / SD 710 / SD 670, SD 820, SD 820A, SD 835, SD 845 / SD 850, SDA660, SDX20, SXR1130
 CVE-2018-5914	Improper input validation in TZ led to array out of bound in TZ function while accessing the peripheral details using the incoming data in Snapdragon Mobile, Snapdragon Wear version MDM9206, MDM9607, MDM9650, SD 210/SD 212/SD 205, SD 425, SD 430, SD 450, SD 625, SD 650/52, SD 835, SDA660.
